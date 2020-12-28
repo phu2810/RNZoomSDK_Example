@@ -5626,9 +5626,9 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.1.tgz#5b3531bd76a645a4c9fb6e693ed36419e3301339"
   integrity sha512-NAnt2iGDXohE5LI7uBnLnqvLQMtzhkiAOLXTmv+qnF9Ky7xAPcX8Up/xWIhxvLVGJvuLiNc4xQLtuqDRzb4fSA==
 
-"react-native-zoom-us@https://github.com/phu2810/react-native-zoom-us.git":
+"react-native-zoom-us@https://github.com/thinh185/react-native-zoom-us.git":
   version "4.0.4"
-  resolved "https://github.com/phu2810/react-native-zoom-us.git#daf306900504659403db57a56df3cbb48f3c84a9"
+  resolved "https://github.com/thinh185/react-native-zoom-us.git#bdb03e3426308bc4fa16a581b2e7eee4381a48b1"
 
 react-native@0.63.4:
   version "0.63.4"

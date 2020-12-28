@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.13.1",
     "react-native": "0.63.4",
-    "react-native-zoom-us": "https://github.com/phu2810/react-native-zoom-us.git"
+    "react-native-zoom-us": "https://github.com/thinh185/react-native-zoom-us.git"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
